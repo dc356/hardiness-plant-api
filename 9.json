@@ -1,0 +1,40 @@
+{
+    "plants": [
+        {
+            "name": "Asparagus Setaceus",
+            "simpleName": "Asparagus-Fern",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Eucalyptus Globulus",
+            "simpleName": "Tasmanian Blue Gum",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Fuchsia Hybrids",
+            "simpleName": "Fuchsia",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Grevillea Robusta",
+            "simpleName": "Silky-Oak",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Schinus Molle",
+            "simpleName": "California Pepper-Tree",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Syzygium Paniculatum",
+            "simpleName": "Australian Brush-Cherry",
+            "imageUrl": "",
+            "description": ""
+        }
+    ]
+}

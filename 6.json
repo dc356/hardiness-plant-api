@@ -1,0 +1,46 @@
+{
+    "plants": [
+        {
+            "name": "Buxus Sempervirens",
+            "simpleName": "Common Boxwood",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Cedrus Atlantica",
+            "simpleName": "Atlas Cedar",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Hedera Helix",
+            "simpleName": "English Ivy",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Ilex Opaca",
+            "simpleName": "American Holly",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Ligustrum Ovalifolium",
+            "simpleName": "California Privet",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Prunus Laurocerasus",
+            "simpleName": "Cherry-Laurel",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Taxus Baccata",
+            "simpleName": "English Yew",
+            "imageUrl": "",
+            "description": ""
+        }
+    ]
+}

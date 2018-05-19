@@ -1,0 +1,34 @@
+{
+    "plants": [
+        {
+            "name": "Arbutus Unedo",
+            "simpleName": "Strawberry-Tree",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Choisya Ternata",
+            "simpleName": "Mexican Orange",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Olearia x Haastii",
+            "simpleName": "New Zealand Daisy-Bush",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Pittosporum Tobira",
+            "simpleName": "Japanese Pittosporum",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Viburnum Tinus",
+            "simpleName": "Laurustinus",
+            "imageUrl": "",
+            "description": ""
+        }
+    ]
+}

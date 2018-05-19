@@ -1,0 +1,40 @@
+{
+    "plants": [
+        {
+            "name": "Bougainvillea Spectabilis",
+            "simpleName": "Bougainvillea",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Cassia Fistula",
+            "simpleName": "Golden Shower",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Corymbia Citriodora",
+            "simpleName": "Lemon-Scented Gum",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Ficus Elastica",
+            "simpleName": "Rubber Plant",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Ensete Ventricosum",
+            "simpleName": "Abyssinian-Banana",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Roystonea Regia",
+            "simpleName": "Royal Palm",
+            "imageUrl": "",
+            "description": ""
+        }
+    ]
+}

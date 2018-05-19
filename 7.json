@@ -1,0 +1,22 @@
+{
+    "plants": [
+        {
+            "name": "Acer Macrophyllum",
+            "simpleName": "Bigleaf Maple",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Rhododendron Kurume Group",
+            "simpleName": "Kurume Azalea",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Ilex Aquifolium",
+            "simpleName": "English Holly",
+            "imageUrl": "",
+            "description": ""
+        }
+    ]
+}
