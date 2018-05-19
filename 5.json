@@ -1,0 +1,40 @@
+{
+    "plants": [
+        {
+            "name": "Acer Palmatum",
+            "simpleName": "Japanese Maple",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Cornus Florida",
+            "simpleName": "Flowering Dogwood",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Cotoneaster Microphyllus",
+            "simpleName": "Small-Leaf Cotoneaster",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Deutzia Gracilis",
+            "simpleName": "Slender Deutzia",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Euonymus Fortunei",
+            "simpleName": "Winter-Creeper",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Rosa Multiflora",
+            "simpleName": "Multiflora Rose",
+            "imageUrl": "",
+            "description": ""
+        }
+    ]
+}
