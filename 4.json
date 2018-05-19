@@ -1,0 +1,40 @@
+{
+    "plants": [
+        {
+            "name": "Berberis Thunbergii",
+            "simpleName": "Japanese Barberry",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Juniperus Chinensis",
+            "simpleName": "Chinese Juniper",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Ligustrum Obtusifolium Subsp. Suave",
+            "simpleName": "Amur Privet",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Ligustrum Vulgare",
+            "simpleName": "Common Privet",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Parthenocissus Tricuspidata",
+            "simpleName": "Boston Ivy",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Taxus Cuspidata",
+            "simpleName": "Japanese Yew",
+            "imageUrl": "",
+            "description": ""
+        }
+    ]
+}
