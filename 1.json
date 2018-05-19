@@ -1,0 +1,40 @@
+{
+    "plants": [
+        {
+            "name": "Betula Glandulosa",
+            "simpleName": "Dwarf Birch",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Empetrum Nigrum",
+            "simpleName": "Black Crowberry",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Populus Tremuloides",
+            "simpleName": "Quaking Aspen",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Potentilla Pensylvanica",
+            "simpleName": "Pennsylvania Cinquefoil",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Rhododendron Lapponicum",
+            "simpleName": "Lapland Rhododendron",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Salix Reticulata",
+            "simpleName": "Netleaf Willow",
+            "imageUrl": "",
+            "description": ""
+        }
+    ]
+}
