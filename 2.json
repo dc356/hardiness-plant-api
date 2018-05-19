@@ -1,0 +1,40 @@
+{
+    "plants": [
+        {
+            "name": "Betula Papyrifera",
+            "simpleName": "Paper Birch",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Cornus Canadensis",
+            "simpleName": "Bunchberry",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Elaeagnus Commutata",
+            "simpleName": "Silverberry",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Larix Laricina",
+            "simpleName": "Eastern Larch",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Dasiphora Fruticosa",
+            "simpleName": "Shrubby Cinquefoil",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Viburnum Opulus var. Americanum",
+            "simpleName": "American Cranberry-Bush",
+            "imageUrl": "",
+            "description": ""
+        }
+    ]
+}
