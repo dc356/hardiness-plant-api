@@ -1,0 +1,58 @@
+{
+    "plants": [
+        {
+            "name": "Acer Saccharum",
+            "simpleName": "Sugar Maple",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Elaeagnus Angustifolia",
+            "simpleName": "Russian Olive",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Hydrangea Paniculata",
+            "simpleName": "Panicle Hydrangea",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Juniperus Communis",
+            "simpleName": "Common Juniper",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Lonicera Tatarica",
+            "simpleName": "Tatarian Honeysuckle",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Malus Baccata",
+            "simpleName": "Siberian Crabapple",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Parthenocissus Quinquefolia",
+            "simpleName": "Virginia Creeper",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Spiraea X Vanhouttei",
+            "simpleName": "Van Houtte Spirea",
+            "imageUrl": "",
+            "description": ""
+        },
+        {
+            "name": "Thuja Occidentalis",
+            "simpleName": "American Arborvitae",
+            "imageUrl": "",
+            "description": ""
+        }
+    ]
+}
