@@ -4,43 +4,50 @@
             "name": "Buxus Sempervirens",
             "simpleName": "Common Boxwood",
             "imageUrl": "https://i.pinimg.com/originals/55/70/d3/5570d37f02bbbc285473948b01d2d24f.jpg",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Buxus_sempervirens",
+            "description": "Buxus sempervirens, the common box, European box, or boxwood, is a species of flowering plant in the genus Buxus, native to western and southern Europe, northwest Africa, and southwest Asia, from southern England south to northern Morocco, and east through the northern Mediterranean region to Turkey."
         },
         {
             "name": "Cedrus Atlantica",
             "simpleName": "Atlas Cedar",
             "imageUrl": "https://www.thetreecenter.com/wp-content/uploads/blue-atlas-cedar-1.jpg",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Cedrus_atlantica",
+            "description": "Cedrus atlantica, the Atlas cedar, is a native to the Atlas Mountains of Morocco (Middle Atlas, High Atlas), to the Rif, and to the Tell Atlas in Algeria."
         },
         {
             "name": "Hedera Helix",
             "simpleName": "English Ivy",
             "imageUrl": "https://fthmb.tqn.com/j7YyERgaNX8FWHShYeIigwEkL2Q=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/English-ivy-GettyImages-697631623-58b3b22a3df78cdcd8542175.jpg",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Hedera_helix",
+            "description": "Hedera helix, the common ivy, English ivy, European ivy, or just ivy, is a species of flowering plant in the family Araliaceae, native to most of Europe and western Asia."
         },
         {
             "name": "Ilex Opaca",
             "simpleName": "American Holly",
             "imageUrl": "https://nebula.wsimg.com/obj/NTY2NUY4NUQ2QjVGRTQwREYyREI6MWFjODU3ZTQzM2ZiNzJkZTY4MDQ2YTZhNjM1MjcyNzU6Ojo6OjA=",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Acer_palmatum",
+            "description": "Ilex opaca, the American holly, is a species of holly, native to the eastern and south-central United States, from coastal Massachusetts south to central Florida, and west to southeastern Missouri and eastern Texas."
         },
         {
             "name": "Ligustrum Ovalifolium",
             "simpleName": "California Privet",
             "imageUrl": "https://cdn8.bigcommerce.com/s-vze7h4ezaf/images/stencil/800x800/products/231/466/California_Privet__87461.1475965194.jpg?c=2",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Ligustrum_ovalifolium",
+            "description": "Ligustrum ovalifolium, also known as Korean privet, California privet, garden privet, and oval-leaved privet, is a species of flowering plant in the olive family Oleaceae. The species is native to Japan and Korea."
         },
         {
             "name": "Prunus Laurocerasus",
             "simpleName": "Cherry-Laurel",
             "imageUrl": "https://cdn.shopify.com/s/files/1/2045/8185/products/laurel_otto_luken2.jpg?v=1513561899",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Prunus_laurocerasus",
+            "description": "Prunus laurocerasus, also known as cherry laurel, common laurel and sometimes English laurel in North America, is an evergreen species of cherry (Prunus), native to regions bordering the Black Sea in southwestern Asia and southeastern Europe, from Albania and Bulgaria east through Turkey to the Caucasus Mountains and northern Iran."
         },
         {
             "name": "Taxus Baccata",
             "simpleName": "English Yew",
             "imageUrl": "http://tenrandomfacts.com/wp-content/uploads/2016/05/English-Yew.jpg",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Taxus_baccata",
+            "description": "Taxus baccata is a conifer native to western, central and southern Europe, northwest Africa, northern Iran and southwest Asia. It is the tree originally known as yew, though with other related trees becoming known, it may now be known as English yew, or European yew."
         }
     ]
 }
