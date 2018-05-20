@@ -4,37 +4,43 @@
             "name": "Berberis Thunbergii",
             "simpleName": "Japanese Barberry",
             "imageUrl": "https://www.totallandscapecare.com/wp-content/uploads/sites/5/2017/07/Japanese_barberry_tree-825x619.jpg",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Berberis_thunbergii",
+            "description": "Berberis thunbergii, the Japanese barberry, Thunberg's barberry, or red barberry, is a species of flowering plant in the barberry family, Berberidaceae, native to Japan and eastern Asia, though widely naturalized in China and in North America"
         },
         {
             "name": "Juniperus Chinensis",
             "simpleName": "Chinese Juniper",
             "imageUrl": "http://jogindernursery.com/image/cache/data/Christmas/chinese_juniper2-560x437.jpg",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Juniperus_chinensis",
+            "description": "Juniperus chinensis (Chinese juniper) is a juniper that grows as a shrub or tree with a very variable shape, reaching 1–20 m tall. This native of northeast Asia grows in China, Mongolia, Japan, Korea and the southeast of Russia."
         },
         {
             "name": "Ligustrum Obtusifolium Subsp. Suave",
             "simpleName": "Amur Privet",
             "imageUrl": "http://plants.connon.ca/Content/Images/Photos/F495-21.jpg",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Ligustrum_obtusifolium",
+            "description": "Ligustrum obtusifolium (border privet or Amur privet) is a species of privet, native to Japan, Korea and northeastern China (Heilongjiang, Jiangsu, Liaoning, Shandong, Zhejiang)."
         },
         {
             "name": "Ligustrum Vulgare",
             "simpleName": "Common Privet",
             "imageUrl": "http://plants.chaletnursery.com/Content/Images/Photos/A167-09.jpg",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Ligustrum_vulgare",
+            "description": "Ligustrum vulgare (wild privet, also sometimes known as common privet or European privet) is a species of Ligustrum native to central and southern Europe, north Africa and southwestern Asia, from Ireland and southwestern Sweden south to Morocco, and east to Poland and northwestern Iran."
         },
         {
             "name": "Parthenocissus Tricuspidata",
             "simpleName": "Boston Ivy",
             "imageUrl": "http://cdn.shopify.com/s/files/1/0947/8766/products/10_620be3de-5b87-4188-b869-173f9030877f_grande.jpeg?v=1512519958",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Parthenocissus_tricuspidata",
+            "description": "Parthenocissus tricuspidata is a flowering plant in the grape family (Vitaceae) native to eastern Asia in Japan, Korea, and northern and eastern China."
         },
         {
             "name": "Taxus Cuspidata",
             "simpleName": "Japanese Yew",
             "imageUrl": "http://image.pennlive.com/home/penn-media/width620/img/gardening/photo/18408201-mmmain.jpg",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Taxus_cuspidata",
+            "description": "Taxus cuspidata, the Japanese yew or spreading yew, is a member of the genus Taxus, native to Japan, Korea, northeast China and the extreme southeast of Russia."
         }
     ]
 }
