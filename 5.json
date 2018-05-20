@@ -1,40 +1,46 @@
 {
     "plants": [
         {
-            "name": "Acer Palmatum",
+            "name": "Acer Palmatum","
             "simpleName": "Japanese Maple",
-            "imageUrl": "https://www.crozetgazette.com/wp-content/uploads/2017/06/japanesemaple-1.jpg",
-            "description": "123"
+            "imageUrl": "https://www.crozetgazette.com/wp-content/uploads/2017/06/japanesemaple-1.jpg", 
+            "infoUrl": "https://en.wikipedia.org/wiki/Acer_palmatum",
+            "description": "Acer palmatum, commonly known as palmate maple, Japanese maple or smooth Japanese-maple is a species of woody plant native to Japan, China, Korea, eastern Mongolia, and southeast Russia"
         },
         {
             "name": "Cornus Florida",
             "simpleName": "Flowering Dogwood",
             "imageUrl": "https://www.thetreecenter.com/wp-content/uploads/2014/07/Dogwood-Tree-Main.jpg",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Cornus_florida",
+            "description": "Cornus florida, the flowering dogwood, is a species of flowering plant in the family Cornaceae native to eastern North America and northern Mexico."
         },
         {
             "name": "Cotoneaster Microphyllus",
             "simpleName": "Small-Leaf Cotoneaster",
             "imageUrl": "https://pics.davesgarden.com/pics/2004/09/26/htop/26852c.jpg",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Cotoneaster",
+            "description": "Cotoneaster is a genus of flowering plants in the rose family, Rosaceae, native to the Palaearctic region (temperate Asia, Europe, north Africa), with a strong concentration of diversity in the genus in the mountains of southwestern China and the Himalayas"
         },
         {
             "name": "Deutzia Gracilis",
             "simpleName": "Slender Deutzia",
             "imageUrl": "http://plants.connon.ca/Content/Images/Photos/F408-15.jpg",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Deutzia_gracilis",
+            "description": "Deutzia gracilis is a shrub with opposite, simple leaves, and slender, arching stems. The flowers are white, borne in spring and summer. Commonly known as a slender deutzial, it is native to Japan and blooms in April to May."
         },
         {
             "name": "Euonymus Fortunei",
             "simpleName": "Winter-Creeper",
             "imageUrl": "https://maxpull-tlu7l6lqiu.stackpathdns.com/wp-content/uploads/2012/07/wintercreeper1-400x300.jpg",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Euonymus_fortunei",
+            "description": "Euonymus fortunei (common names spindle or Fortune's spindle, winter creeper or wintercreeper) is a species of flowering plant in the family Celastraceae, native to east Asia, including China, Korea, the Philippines and Japan"
         },
         {
             "name": "Rosa Multiflora",
             "simpleName": "Multiflora Rose",
             "imageUrl": "https://www.agweb.com/assets/1/19/multiflora_rose.jpg?4040380",
-            "description": ""
+            "infoUrl": "https://en.wikipedia.org/wiki/Rosa_multiflora",
+            "description": "Rosa multiflora is a species of rose known commonly as multiflora rose, baby rose, Japanese rose, many-flowered rose, seven-sisters rose, Eijitsu rose and rambler rose. It is native to eastern Asia, in China, Japan and Korea"
         }
     ]
 }
